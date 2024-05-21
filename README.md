@@ -1,1 +1,7 @@
-initial commit
+전공C반 2팀
+=============
+### SourceTree를 활용한 협업 시나리오 - 덧셈 기능 제공
+
+1. 소스트리를 활용하여 병렬 작업 후
+2. index.html 충돌해결
+3. merge
